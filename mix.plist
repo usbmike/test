@@ -17,7 +17,7 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.sma.MixProject</string>
+                <string>com.qp.MixProject</string>
                 <key>bundle-version</key>
                 <string>2.7.1</string>
                 <key>kind</key>
